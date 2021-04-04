@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="BookstoreDb@localhost">
+  <database-model serializer="dbm" dbms="MONGO" family-id="MONGO" format-version="4.19">
+    <root id="1">
+      <ServerVersion>4.4.0</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="BookstoreDb">
+      <Current>1</Current>
+    </schema>
+    <schema id="3" parent="1" name="admin"/>
+    <schema id="4" parent="1" name="book"/>
+    <schema id="5" parent="1" name="config"/>
+    <schema id="6" parent="1" name="db1"/>
+    <schema id="7" parent="1" name="db13"/>
+    <schema id="8" parent="1" name="db14"/>
+    <schema id="9" parent="1" name="invoices"/>
+    <schema id="10" parent="1" name="local"/>
+    <schema id="11" parent="1" name="phones"/>
+    <schema id="12" parent="1" name="sampledb"/>
+    <schema id="13" parent="1" name="swc3_db"/>
+    <schema id="14" parent="1" name="test"/>
+    <schema id="15" parent="1" name="vidly"/>
+    <table id="16" parent="2" name="Books"/>
+  </database-model>
+</dataSource>
