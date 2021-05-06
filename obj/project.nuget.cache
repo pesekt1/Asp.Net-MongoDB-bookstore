@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NltzE/2jCTnmWTftnHALskdJ1zfhLFKoixjef9TkosgqBvga4gemJBBrsirRWQGKHE3w9xv9xr+/LNGob/xBEw==",
+  "dgSpecHash": "izEWCl/zHgtPQ2KYCyGuXpYafYCjP9pFKXMs2fPXdRYzYrbu8Q+3d8Qtfyv5KzeSbkbd8VaFQ4ypGisaL/clwQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Tomas Pesek\\Dropbox\\IT-Undervisning\\Programming\\Entity FrameWork 6\\AspNetCore.Docs-master\\aspnetcore\\tutorials\\first-mongo-app\\samples\\3.x\\SampleApp\\BooksApi.csproj",
+  "projectFilePath": "C:\\Users\\Tomas Pesek\\Dropbox\\IT-Undervisning\\Programming\\Entity FrameWork 6\\AspNetCore.Docs-master\\aspnetcore\\tutorials\\first-mongo-app\\samples\\3.x\\SampleApp\\BooksApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tomas Pesek\\.nuget\\packages\\dnsclient\\1.2.0\\dnsclient.1.2.0.nupkg.sha512",
     "C:\\Users\\Tomas Pesek\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.0.0\\microsoft.aspnetcore.jsonpatch.3.0.0.nupkg.sha512",

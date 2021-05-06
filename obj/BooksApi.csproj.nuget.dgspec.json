@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Tomas Pesek\\Dropbox\\IT-Undervisning\\Programming\\Entity FrameWork 6\\AspNetCore.Docs-master\\aspnetcore\\tutorials\\first-mongo-app\\samples\\3.x\\SampleApp\\BooksApi.csproj": {}
+    "C:\\Users\\Tomas Pesek\\Dropbox\\IT-Undervisning\\Programming\\Entity FrameWork 6\\AspNetCore.Docs-master\\aspnetcore\\tutorials\\first-mongo-app\\samples\\3.x\\SampleApp\\BooksApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Tomas Pesek\\Dropbox\\IT-Undervisning\\Programming\\Entity FrameWork 6\\AspNetCore.Docs-master\\aspnetcore\\tutorials\\first-mongo-app\\samples\\3.x\\SampleApp\\BooksApi.csproj": {
+    "C:\\Users\\Tomas Pesek\\Dropbox\\IT-Undervisning\\Programming\\Entity FrameWork 6\\AspNetCore.Docs-master\\aspnetcore\\tutorials\\first-mongo-app\\samples\\3.x\\SampleApp\\BooksApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Tomas Pesek\\Dropbox\\IT-Undervisning\\Programming\\Entity FrameWork 6\\AspNetCore.Docs-master\\aspnetcore\\tutorials\\first-mongo-app\\samples\\3.x\\SampleApp\\BooksApi.csproj",
+        "projectUniqueName": "C:\\Users\\Tomas Pesek\\Dropbox\\IT-Undervisning\\Programming\\Entity FrameWork 6\\AspNetCore.Docs-master\\aspnetcore\\tutorials\\first-mongo-app\\samples\\3.x\\SampleApp\\BooksApi.csproj",
         "projectName": "BooksApi",
-        "projectPath": "c:\\Users\\Tomas Pesek\\Dropbox\\IT-Undervisning\\Programming\\Entity FrameWork 6\\AspNetCore.Docs-master\\aspnetcore\\tutorials\\first-mongo-app\\samples\\3.x\\SampleApp\\BooksApi.csproj",
+        "projectPath": "C:\\Users\\Tomas Pesek\\Dropbox\\IT-Undervisning\\Programming\\Entity FrameWork 6\\AspNetCore.Docs-master\\aspnetcore\\tutorials\\first-mongo-app\\samples\\3.x\\SampleApp\\BooksApi.csproj",
         "packagesPath": "C:\\Users\\Tomas Pesek\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Tomas Pesek\\Dropbox\\IT-Undervisning\\Programming\\Entity FrameWork 6\\AspNetCore.Docs-master\\aspnetcore\\tutorials\\first-mongo-app\\samples\\3.x\\SampleApp\\obj\\",
+        "outputPath": "C:\\Users\\Tomas Pesek\\Dropbox\\IT-Undervisning\\Programming\\Entity FrameWork 6\\AspNetCore.Docs-master\\aspnetcore\\tutorials\\first-mongo-app\\samples\\3.x\\SampleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tomas Pesek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "dependencies": {
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
@@ -83,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
